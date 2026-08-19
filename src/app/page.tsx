@@ -11,7 +11,7 @@ export default function HomePage() {
       <main className="flex-1">
         <section className="mx-auto max-w-5xl px-4 py-20 text-center">
           <h1 className="text-4xl font-bold mb-4">
-            اعرف الحقيقة <span className="text-[var(--color-primary)]">قبل ما ت ký</span>
+            اعرف الحقيقة <span className="text-[var(--color-primary)]">قبل ما تتعاقد</span>
           </h1>
           <p className="text-[var(--color-text-secondary)] text-lg mb-8 max-w-xl mx-auto">
             تقييمات حقيقية من سكان حقيقيين. اكتشف الحقيقة عن أي شقة أو مبنى.
@@ -41,7 +41,7 @@ export default function HomePage() {
               <div className="text-3xl mb-3">📝</div>
               <h3 className="font-semibold mb-2">قيّم</h3>
               <p className="text-xs text-[var(--color-text-secondary)]">
-                شارك تجربتك وأ-help المستأجرين الجايين
+                شارك تجربتك وساعد المستأجرين الجايين
               </p>
             </div>
           </div>
